@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Harry.DESKTOP-RB792OQ/Desktop/ECSNew/ECSFramework/Content/Bullet.png","C:/Users/Harry.DESKTOP-RB792OQ/Desktop/ECSNew/ECSFramework/Content/bin/DesktopGL/Content/Bullet.xnb","TextureProcessor","Texture2DContent",18364,16469,0.6657656
+"C:/Users/Harry.DESKTOP-RB792OQ/Desktop/ECSNew/ECSFramework/Content/GameEngRect.png","C:/Users/Harry.DESKTOP-RB792OQ/Desktop/ECSNew/ECSFramework/Content/bin/DesktopGL/Content/GameEngRect.xnb","TextureProcessor","Texture2DContent",2497,5760085,0.3134785
+"C:/Users/Harry.DESKTOP-RB792OQ/Desktop/ECSNew/ECSFramework/Content/GhostlyGuide.png","C:/Users/Harry.DESKTOP-RB792OQ/Desktop/ECSNew/ECSFramework/Content/bin/DesktopGL/Content/GhostlyGuide.xnb","TextureProcessor","Texture2DContent",1926,4181,0.0039919
+"C:/Users/Harry.DESKTOP-RB792OQ/Desktop/ECSNew/ECSFramework/Content/Spaceship_Asset.png","C:/Users/Harry.DESKTOP-RB792OQ/Desktop/ECSNew/ECSFramework/Content/bin/DesktopGL/Content/Spaceship_Asset.xnb","TextureProcessor","Texture2DContent",21917,262229,0.0299866
